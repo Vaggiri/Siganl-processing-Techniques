@@ -1,0 +1,8 @@
+
+write a python code for genrating fibanacci series
+
+create a function that takes list of numbers as input and returns the sum of all even numbers in the list
+
+write a code for pallindrome
+
+create 4 functions sinx cosx e^-x and x2 (use subplot to viuslaize all these fucntions in a single window wher x is defined from 0 to 100 with the spacing of 10)
